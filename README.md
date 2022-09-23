@@ -22,6 +22,7 @@ Configure a manual entry application in Canvas:
 Other useful links:
 
 https://pypi.org/project/django-lti-auth/
+
 https://docs.djangoproject.com/en/4.1/intro/tutorial01/
 
 
