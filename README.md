@@ -10,7 +10,6 @@ https://medium.com/@diwassharma/starting-a-python-django-project-on-mac-os-x-c08
 •	For windows OS:
 
 https://docs.djangoproject.com/en/4.1/howto/windows/
-![image](https://user-images.githubusercontent.com/111540267/192053419-8bce8f84-fffa-4292-b4ad-a7d606128fb9.png)
 
 To learn more about consumer and secret key go through below link
 
